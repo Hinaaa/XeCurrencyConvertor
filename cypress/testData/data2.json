@@ -1,0 +1,10 @@
+[
+	{
+	"tc":"2_currency Convert of Given Amount From INR",  
+	"currencyFromType":"INR",
+	"currencyToType":"EUR",
+	"amountToConvert":"1000"
+	
+	}
+	]
+	

@@ -1,0 +1,9 @@
+
+{
+  "url": "https://www.xe.com/currencyconverter/",
+  "url2": "https://www.xe.com/send-money/",
+  "url3": "https://accounts.xe.com/login?client_id=7v3mjop0iq74d7bdpgvn95r86d&redirect_uri=https%3A%2F%2Ftransfer.xe.com%2Faccount%2Flogin%2Fhome&response_type=code&state=",
+  "API_URL": "https://jsonplaceholder.typicode.com/",
+  "API_URL_For_POST": "https://httpbin.org/"
+}
+

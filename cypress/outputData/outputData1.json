@@ -1,0 +1,4 @@
+{
+    "tc":"1_Error Message on Entering Alphabet Characters in Currency Convertor Calculator",  
+    "errorMessageToBe":"Please enter a valid amount"
+}

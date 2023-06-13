@@ -1,0 +1,9 @@
+[
+{
+"tc":"3_validate Convert Button And Currency Convert of Given Amount Via Calculator GPB to EUR",  
+"currencyFromType":"GBP",
+"currencyToType":"EUR",
+"amountToConvert":"10"
+
+}
+]

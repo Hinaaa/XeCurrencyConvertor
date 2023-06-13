@@ -1,0 +1,9 @@
+[
+	{
+		"tc":"1_error Message on Entering Alphabet Characters In Currency Convertor Calculator",  
+		"currencyFromType":"GBP",
+		"currencyToType":"EUR",
+		"amountToConvert":"abc"
+	}
+	]
+	
